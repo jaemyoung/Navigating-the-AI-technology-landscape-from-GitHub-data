@@ -20,7 +20,9 @@
 
 ## Research Framework
 
-![Framework](paper_data/framework.jpg)
+<p align="center">
+  <img src="paper_data/framework.jpg" alt="Research Framework" width="100%">
+</p>
 
 | Stage | Method | Description |
 |-------|--------|-------------|
@@ -29,9 +31,11 @@
 | **Network Clustering** | Attributed Graph Clustering | 20개 AI 기술 클러스터 식별 및 시각화 |
 | **Link Prediction** | Graph Convolutional Network | 미래 유망 기술 조합 예측 |
 
-### Network Example
+### Network Clustering Result
 
-![Network Example](paper_data/example.jpg)
+<p align="center">
+  <img src="paper_data/example.jpg" alt="20 AI Technology Clusters" width="100%">
+</p>
 
 ## Project Structure
 
