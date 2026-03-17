@@ -1,0 +1,3 @@
+﻿total_index,keyword_source,full_name,html_url,create_date,update_date,pushed_date,language,stars,forks,watchers,open_issues,is_fork,topics,description
+0,"""symbolic AI""",frnsys/retrosynthesis_planner,https://github.com/frnsys/retrosynthesis_planner,2018-11-08T15:44:52+00:00,2025-01-26T07:41:46+00:00,2021-01-14T15:23:12+00:00,Python,59,20,59,6,False,[],Retrosynthesis planner
+1,"""symbolic AI""",sebdumancic/pylo2,https://github.com/sebdumancic/pylo2,2020-05-25T14:10:39+00:00,2024-10-25T21:16:11+00:00,2021-10-28T07:56:06+00:00,Python,85,7,85,7,False,"['prolog', 'logic-programming', 'artificial-intelligence']",Python wrapper around several Prolog engines. Hoping to make symbolic AI a part of standard AI toolkit.

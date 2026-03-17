@@ -1,0 +1,4 @@
+﻿total_index,keyword_source,full_name,html_url,create_date,update_date,pushed_date,language,stars,forks,watchers,open_issues,is_fork,topics,description
+0,"""robotics AI""",MurugeshMarvel/MLexp,https://github.com/MurugeshMarvel/MLexp,2016-07-06T09:41:01+00:00,2023-11-22T05:18:56+00:00,2022-05-03T05:09:04+00:00,Python,15,8,15,1,False,[],"This Contains Algorithms and codes for NLP, CV and deep learning basics and some advanced concepts"
+1,"""robotics AI""",yichijin/bridgescape,https://github.com/yichijin/bridgescape,2016-10-07T14:34:04+00:00,2022-05-14T07:35:42+00:00,2022-10-05T04:40:27+00:00,Python,12,7,12,2,False,[],Tools for scraping and parsing .lin bridge hand data
+2,"""robotics AI""",rockingdingo/tensorflow-tutorial,https://github.com/rockingdingo/tensorflow-tutorial,2016-12-26T06:29:34+00:00,2024-12-20T03:15:03+00:00,2024-10-11T17:00:05+00:00,Python,108,69,108,6,False,[],Some tensorflow demo

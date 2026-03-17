@@ -1,0 +1,4 @@
+﻿total_index,keyword_source,full_name,html_url,create_date,update_date,pushed_date,language,stars,forks,watchers,open_issues,is_fork,topics,description
+0,"""generative AI""",mike-bowles/hdDeepLearningStudy,https://github.com/mike-bowles/hdDeepLearningStudy,2016-03-15T04:29:02+00:00,2024-12-19T08:08:43+00:00,2023-11-15T04:55:11+00:00,Python,290,93,290,4,False,[],Code etc for Hacker Dojo Deep Learning Study Group
+1,"""generative AI""",rockingdingo/deepnlp,https://github.com/rockingdingo/deepnlp,2016-10-27T07:49:05+00:00,2025-04-22T09:59:06+00:00,2024-10-11T16:02:55+00:00,Python,1354,708,1354,43,False,[],Deep Learning NLP Pipeline implemented on Tensorflow
+2,"""generative AI""",rockingdingo/tensorflow-tutorial,https://github.com/rockingdingo/tensorflow-tutorial,2016-12-26T06:29:34+00:00,2024-12-20T03:15:03+00:00,2024-10-11T17:00:05+00:00,Python,108,69,108,6,False,[],Some tensorflow demo
