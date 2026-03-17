@@ -20,21 +20,18 @@
 
 ## Research Framework
 
-![Framework](https://user-images.githubusercontent.com/35715977/191416071-6eff7564-e0c4-4f0f-9484-7734468013eb.png)
+![Framework](paper_data/framework.jpg)
 
-### Pipeline Overview
+| Stage | Method | Description |
+|-------|--------|-------------|
+| **Data Collection** | GitHub API | AI 관련 레포지토리 수집 (56,111개) → Python 필터링 (2,879개) |
+| **Network Construction** | Library Coupling | 레포지토리 간 라이브러리 공유 관계 기반 네트워크 구축 |
+| **Network Clustering** | Attributed Graph Clustering | 20개 AI 기술 클러스터 식별 및 시각화 |
+| **Link Prediction** | Graph Convolutional Network | 미래 유망 기술 조합 예측 |
 
-```
-1. Data Collection     GitHub API로 AI 관련 레포지토리 수집 (56,111개)
-        ↓
-2. Preprocessing       Python 레포 필터링 → setup.py 의존성 추출 → PyPI 검증 (2,879개)
-        ↓
-3. Feature Engineering  PyPI 설명 크롤링 → KeyBERT 키워드 추출 → SentenceTransformer 임베딩
-        ↓
-4. Network Analysis     Co-library 네트워크 + Library Coupling 네트워크 구축
-        ↓
-5. GNN Link Prediction  GCN 학습 → 미래 라이브러리 연결 예측 → 유망 기술 도출
-```
+### Network Example
+
+![Network Example](paper_data/example.jpg)
 
 ## Project Structure
 
@@ -55,6 +52,7 @@
 ├── material_/
 │   └── crawling_material.py   # 크롤링 유틸리티 함수
 │
+├── paper_data/                # 논문 이미지 (프레임워크, 네트워크 예시)
 ├── data/                      # 분석 데이터 (네트워크, 피처, 결과)
 ├── crawled_data/              # 원본 크롤링 데이터
 ├── Gephi_file/                # 네트워크 시각화 파일 (GEXF/Gephi)
